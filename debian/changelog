@@ -1,8 +1,8 @@
-haskell-contravariant (1.5.2-deepin1) unstable; urgency=medium
+haskell-contravariant (1.5.5-1) unstable; urgency=medium
 
-  * Rebuild
+  * New upstream release
 
- -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:37:20 +0800
+ -- Clint Adams <clint@debian.org>  Tue, 14 Jun 2022 16:11:20 -0400
 
 haskell-contravariant (1.5.2-2) unstable; urgency=medium
 
